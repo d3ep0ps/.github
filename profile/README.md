@@ -1,32 +1,43 @@
 # 🌌 d3ep0ps — Depth Over Hype
 
-> Hands-on labs, guides, and examples for Linux, FreeBSD, and Cloud engineers who want to understand systems deeply.
+> A calm, noise-free space for individuals who want to understand technology deeply, not just use it.
 
-Welcome to **d3ep0ps**, a project born from curiosity and a love for clean, minimal engineering.  
+Welcome to **d3ep0ps**.  
+My name is **Vitaliy Zhhuta** — a System & Solution Architect by profession and a physicist by education.  
+I like building systems that make sense — from packets on the wire to machine-learning models in the cloud.
+
 Here, you'll find practical labs, configuration guides, and automation snippets designed to help you **learn by doing**.
 
 ---
 
-## 🧠 What You'll Find
-- 🖥️ Linux Labs – from installation to shell mastery and system hardening  
-- 🧱 FreeBSD Labs – networking, ZFS, jails, and performance tuning  
-- ⚙️ Vim & Shell Essentials – editors, CLI workflows, and automation tools  
-- ☁️ Cloud Experiments – GCP & Kubernetes real-world examples  
-- 🧩 Utilities – scripts, configs, and templates for your homelab  
+## 🧠 The Roadmap
+
+We cover the full stack of modern infrastructure:
+
+*   **Foundation:** Linux / FreeBSD administration, shell discipline, and security habits
+*   **Networking:** IPv4/IPv6, VLANs, routers, DNS, VPNs/WireGuard, monitoring
+*   **Self-Hosting:** Mail, reverse proxies, and automation for small services
+*   **Cloud:** Deploying and managing workloads on GCP, Kubernetes, and hybrid setups
+*   **Automation:** Infrastructure-as-Code, CI/CD, observability, and agents
+*   **AI & ML:** Connecting everything you learned to build intelligent systems that adapt and optimize
 
 Each lab complements articles on [**Medium**](https://medium.com/@d3ep0ps) and [**d3ep0ps.com**](https://d3ep0ps.com).
 
 ---
 
 ## 🚀 Get Started
-Start exploring:
-- [Linux Labs](https://github.com/d3ep0ps/linux-labs)
-- [FreeBSD Labs](https://github.com/d3ep0ps/freebsd-labs)
-- [Vim Guide](https://github.com/d3ep0ps/vim-guide)
+
+Start exploring our hands-on labs:
+
+-   🛡️ [**Security Lab**](https://github.com/d3ep0ps/security-lab) – Hardening SSH and Identity (Day-1 Security).
+-   ⌨️ [**Vim Lab**](https://github.com/d3ep0ps/vim-lab) – Survival skills for the terminal.
+-   🖥️ [**Linux Labs**](https://github.com/d3ep0ps/linux-labs) – From installation to shell mastery.
+-   🧱 [**FreeBSD Labs**](https://github.com/d3ep0ps/freebsd-labs) – Networking, ZFS, and jails.
 
 ---
 
 ## 🌍 Philosophy
+
 > “We don’t just run commands — we understand them.”
 
 No hype, no shortcuts.  
@@ -35,9 +46,10 @@ Just deep, simple, hands-on learning for real engineers.
 ---
 
 ## ✦ Connect
-- 📖 [Medium: @d3ep0ps](https://medium.com/@d3ep0ps)  
-- 🌐 [Website: d3ep0ps.com](https://d3ep0ps.com)  
-- 💼 [LinkedIn: Vitaliy Zhhuta](https://linkedin.com/in/vzhhuta)  
+
+-   📖 [Medium: @d3ep0ps](https://medium.com/@d3ep0ps)
+-   🌐 [Website: d3ep0ps.com](https://d3ep0ps.com)
+-   💼 [LinkedIn: Vitaliy Zhhuta](https://linkedin.com/in/vzhhuta)
 
 ---
 
